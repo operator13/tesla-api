@@ -4,6 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tesla-api/lib/tesla_api/client.rb" timestamp="1538770388352" />
+      <file name="$USER_HOME$/tesla-api/.travis.yml" timestamp="1538840167103">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+      </file>
     </filemarks>
     <jumps />
     <registers />
